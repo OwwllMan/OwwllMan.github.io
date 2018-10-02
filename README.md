@@ -1,5 +1,5 @@
 # OwwllMan.github.io
 
-Project réalisé en collaboration avec Monsieur Simon Legros  , Ainsi que Monsieur Thomas Hertzog
+Projet réalisé en collaboration avec  Simon Legros  , Ainsi que  Thomas Hertzog
 
 Mise en production : https://owwllman.github.io/
